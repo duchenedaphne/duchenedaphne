@@ -1,8 +1,8 @@
 # Duchêne Daphné
-## 💻 Design & Developpement Web
+## 💻 Design & Développement Web
 
 - 👋 Bonjour,
-- 🌱 Je suis actuellement en formation en Developpement Web et Web Mobile.
+- 🌱 Je suis actuellement en formation de Développement Web et Web Mobile.
 
 ## 💯 Skills et Expérience
 - 🔭 Autodidacte, mon premier site internet a été réalisé avec [Wordpress](https://duchenedaphne.wordpress.com).  
