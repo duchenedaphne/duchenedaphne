@@ -2,10 +2,10 @@
 ## 💻 Design & Développement Web
 
 - 👋 Bonjour,
-- 🌱 Je suis actuellement en formation de Développement Web et Web Mobile.
+- 🌱 Je suis actuellement en formation en développement web et web mobile.
 
 ## 💯 Skills et Expérience
-- 🔭 Autodidacte, mon premier site internet a été réalisé avec Wordpress.  
+- 🔭 Autodidacte, mon premier site internet a été réalisé avec le CMS Wordpress.  
 - ⚡ Maintenant, je suis capable de coder en HTML / CSS / JS : [Portfolio](https://duchenedaphne.github.io). 
 - 👀 Je suis intéressée par : Javascript FullStack, ⚛️ ReactJS, et ♨️ Java.
 
