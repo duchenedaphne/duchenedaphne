@@ -1,5 +1,4 @@
-# Duchêne Daphné
-## 💻 Design & Développement Web
+# 💻 Design & Développement Web
 
 - 👋 Bonjour,
 - 🌱 Je suis actuellement en formation en développement web et web mobile.
