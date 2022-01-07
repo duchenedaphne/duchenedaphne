@@ -7,9 +7,9 @@
 ## 💯 Skills et Expérience
 🔭 Autodidacte, mon premier site internet a été réalisé avec le CMS Wordpress.  
 
-⚡ Maintenant, je suis capable de coder en HTML / CSS / JS / ♨️ Java : [Portfolio](https://duchenedaphne.github.io). 
+⚡ Maintenant, je suis capable de coder en HTML / CSS / JS / Java : [Portfolio](https://duchenedaphne.github.io). 
 
-👀 Je suis intéressée par : Javascript FullStack, et ⚛️ ReactJS.
+👀 Je suis intéressée par : Javascript FullStack et ⚛️ ReactJS.
 
 ### 📫 Vous pouvez me contacter : 
 💬 Sur mon profile LinkedIn : [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://fr.linkedin.com/in/duchenedaphne/) 
