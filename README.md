@@ -2,7 +2,7 @@
 
 👋 Bonjour, 
 
-🌱 Je suis actuellement en recherche d'un contrat en alternance d'une année en tant que Conceptrice Développeuse d'Applications, BAC+4.
+🌱 Je suis actuellement en formation de Conceptrice Développeuse d'Applications, BAC+4.
 
 ## 💯 Skills et Expérience
 🔭 Autodidacte, mon premier site internet a été réalisé avec le CMS Wordpress.  
