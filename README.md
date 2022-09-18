@@ -14,15 +14,15 @@
 ⚡ En reconversion professionnelle, j'ai suivi une formation intensive de
    Développeuse Web et Web mobile.
 
-👌 Maintenant, je suis capable de coder en FullStack.
+👌 Maintenant, je suis Développeuse FullStack.
 
 #### 💬 Langages : 
 
-Java, PHP 7, C#, PL/SQL, SQL, HTML 5, CSS 3, JavaScript.
+Java, Kotlin, PHP 7, C#, PL/SQL, SQL, HTML 5, CSS 3, JavaScript.
 
 #### 💽 Environnements : 
 
-VSCode, Node JS, Eclipse, PhpStorm, WebStorm, Android studio
+VSCode, Node JS, Eclipse, IntelliJ, PhpStorm, WebStorm, Android studio
 
 #### 🛰️ Plateformes / Frameworks : 
 
@@ -40,7 +40,7 @@ SQL Server, Oracle, MySQL, Firebase, Mongo DB.
 
 #### ⭐ Méthodes : 
 
-Méthode de développement Agile (Scrum), RUP, UML.
+Agile (Scrum), RUP, UML.
 
 ## 📫 Vous pouvez me contacter
 
