@@ -8,39 +8,13 @@
 
 🔭 Autodidacte, mon premier site internet a été réalisé avec le CMS Wordpress.  
 
-📅 Par la suite, je me suis auto-formée au HTML, au CSS, au JavaScript, à GitHub,
+📅 Je me suis auto-formée au HTML, au CSS, au JavaScript, à GitHub,
    de même qu’à Linux, en dual boot avec Windows, sur mon ordinateur personnel : [Portfolio](https://duchenedaphne.github.io).
 
 ⚡ En reconversion professionnelle, j'ai suivi une formation intensive de
    Développeuse Web et Web mobile.
 
-👌 Maintenant, je suis Développeuse FullStack.
-
-#### 💬 Langages : 
-
-Java, Kotlin, PHP 7, C#, PL/SQL, SQL, HTML 5, CSS 3, JavaScript.
-
-#### 💽 Environnements : 
-
-VSCode, Node JS, Eclipse, IntelliJ, PhpStorm, WebStorm, Android studio
-
-#### 🛰️ Plateformes / Frameworks : 
-
-Java SE et EE (Tomcat), Symfony 5 (WAMP), mobile avec Android,
-   .Net (Core, MVC, SOAP, REST), ASP.NET MVC, Bootstrap 5, JQuery, Xamarin, React Native,
-   Tailwind CSS, Vite JS.
-
-#### 🖱️ ORM : 
-
-Doctrine, JPA-Hibernate, Room.
-
-#### 🔋 Bases de données : 
-
-SQL Server, Oracle, MySQL, Firebase, Mongo DB.
-
-#### ⭐ Méthodes : 
-
-Agile (Scrum), RUP, UML.
+👌 Maintenant, je suis Développeuse POO FullStack en Java, Kotlin, PHP, C# et JavaScript.
 
 ## 📫 Vous pouvez me contacter
 
