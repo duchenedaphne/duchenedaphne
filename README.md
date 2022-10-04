@@ -1,21 +1,4 @@
 # 💻 Conceptrice Développeuse d'Applications Web & Mobile 📱
-
-👋 Bonjour, 
-
-🌱 Je suis actuellement en formation de Conceptrice Développeuse d'Applications, BAC+4.
-
-## 💯 Skills et Expérience
-
-🔭 Autodidacte, mon premier site internet a été réalisé avec le CMS Wordpress. <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="wordpress" alt="wordpress" width="20" height="20"/> 
-
-📅 Puis, je me suis auto-formée au HTML, au CSS, au JavaScript, à GitHub,
-   de même qu’à Linux, en dual boot avec Windows, sur mon ordinateur personnel : [Portfolio](https://duchenedaphne.github.io).
-
-⚡ En reconversion professionnelle, j'ai suivi une formation intensive de
-   Développeuse Web et Web mobile.
-
-👌 Maintenant, je suis Développeuse POO FullStack en Java, Kotlin, PHP, C# et JavaScript.
-
 ---
 
 ### 🛠 &nbsp;Langages et outils :
@@ -39,6 +22,25 @@
 </p>
 
 ---
+
+
+👋 Bonjour, 
+
+🌱 Je suis actuellement en formation de Conceptrice Développeuse d'Applications, BAC+4.
+
+
+## 💯 Skills et Expérience
+
+🔭 Autodidacte, mon premier site internet a été réalisé avec le CMS Wordpress. <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="wordpress" alt="wordpress" width="20" height="20"/> 
+
+📅 Puis, je me suis auto-formée au HTML, au CSS, au JavaScript, à GitHub,
+   de même qu’à Linux, en dual boot avec Windows, sur mon ordinateur personnel : [Portfolio](https://duchenedaphne.github.io).
+
+⚡ En reconversion professionnelle, j'ai suivi une formation intensive de
+   Développeuse Web et Web mobile.
+
+👌 Maintenant, je suis Développeuse POO FullStack en Java, Kotlin, PHP, C# et JavaScript.
+
 
 ## 📫 Vous pouvez me contacter
 
