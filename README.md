@@ -20,6 +20,8 @@
 
 💬 Sur mon profil LinkedIn : [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://fr.linkedin.com/in/duchenedaphne/) 
 
+
+![](https://gifimage.net/wp-content/uploads/2018/06/world-wide-web-gif-11.gif)
 <!---
 duchenedaphne/duchenedaphne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
