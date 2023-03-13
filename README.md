@@ -1,4 +1,4 @@
-# 💻 Conceptrice Développeuse d'Applications Web & Mobile 📱
+# 💻 Conceptrice Développeuse d'Applications 📱
 ---
 
 ### 🛠 &nbsp;Langages et outils :
