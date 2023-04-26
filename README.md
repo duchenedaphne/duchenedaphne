@@ -37,16 +37,13 @@
    - Conceptrice Développeuse d'Applications, BAC+4 - DORANCO École des Technologies Créatives,
    - Développeuse Web et Web mobile, BAC+2 - ENI École Informatique.
 
-⚡ Maintenant, je suis Développeuse POO FullStack en Java, Kotlin, PHP, C# et JavaScript, NodeJS. 👌
+⚡ Maintenant, je suis Développeuse POO FullStack en Java, Kotlin, PHP, C# et JavaScript, NodeJS.
 
 
 ## 📫 Vous pouvez me contacter
 
 <p align="center"> 
 💬 Sur mon <a href='https://fr.linkedin.com/in/duchenedaphne/'>profil LinkedIn</a> 
-<p>
-<p align="center"> 
-<img src="https://gifimage.net/wp-content/uploads/2018/06/world-wide-web-gif-11.gif">
 <p>
 
 <!---
