@@ -34,7 +34,7 @@
    de même qu’à Linux, en dual boot avec Windows, sur mon ordinateur personnel : [Portfolio](https://duchenedaphne.github.io).
 
 🌱 En évolution professionnelle, j'ai obtenu les titres de :
-   - Conceptrice Développeuse d'Applications, BAC+4 - DORANCO École des Technologies Créatives,
+   - Conceptrice Développeuse d'Applications, BAC+4 - DORANCO École Supérieure des Technologies Créatives,
    - Développeuse Web et Web mobile, BAC+2 - ENI École Informatique.
 
 ⚡ Maintenant, je suis Développeuse POO FullStack en Java-Spring Boot, JavaScript-ReactJS/AngularJS, NodeJS, Kotlin, C# et PHP.
