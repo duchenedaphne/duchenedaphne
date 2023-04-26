@@ -24,10 +24,7 @@
 ---
 
 
-👋 Bonjour, 
-
-🌱 Je suis actuellement en formation de Conceptrice Développeuse d'Applications, BAC+4.
-
+👋 Bonjour et bienvenue à vous ! 
 
 ## 💯 Skills et Expérience
 
@@ -36,10 +33,11 @@
 📅 Puis, je me suis auto-formée au HTML, au CSS, au JavaScript, à GitHub,
    de même qu’à Linux, en dual boot avec Windows, sur mon ordinateur personnel : [Portfolio](https://duchenedaphne.github.io).
 
-⚡ En reconversion professionnelle, j'ai suivi une formation intensive de
-   Développeuse Web et Web mobile.
+🌱 En évolution professionnelle, j'ai obtenu les titres de :
+   - Conceptrice Développeuse d'Applications, BAC+4 - DORANCO École des Technologies Créatives,
+   - Développeuse Web et Web mobile, BAC+2 - ENI École Informatique.
 
-👌 Maintenant, je suis Développeuse POO FullStack en Java, Kotlin, PHP, C# et JavaScript.
+⚡ Maintenant, je suis Développeuse POO FullStack en Java, Kotlin, PHP, C# et JavaScript, NodeJS. 👌
 
 
 ## 📫 Vous pouvez me contacter
