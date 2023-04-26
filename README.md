@@ -37,7 +37,7 @@
    - Conceptrice Développeuse d'Applications, BAC+4 - DORANCO École des Technologies Créatives,
    - Développeuse Web et Web mobile, BAC+2 - ENI École Informatique.
 
-⚡ Maintenant, je suis Développeuse POO FullStack en Java, Kotlin, PHP, C# et JavaScript, NodeJS.
+⚡ Maintenant, je suis Développeuse POO FullStack en Java-Spring, Kotlin, PHP, C# et JavaScript-ReactJS et Angular, NodeJS.
 
 
 ## 📫 Vous pouvez me contacter
