@@ -1,4 +1,4 @@
-# 💻 Conceptrice Développeuse d'Applications 📱
+# 💻 Experte en développement logiciel
 ---
 
 ### 🛠 &nbsp;Langages et outils :
@@ -30,14 +30,12 @@
 
 🔭 Autodidacte, mon premier site internet a été réalisé avec le CMS Wordpress. <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="wordpress" alt="wordpress" width="20" height="20"/> 
 
-📅 Puis, je me suis auto-formée au HTML, au CSS, au JavaScript, à GitHub,
-   de même qu’à Linux, en dual boot avec Windows, sur mon ordinateur personnel : [Portfolio](https://duchenedaphne.github.io).
+📅 Puis, je me suis auto-formée au HTML, au CSS, au JavaScript, à GitHub, de même qu’à Linux.
 
-🌱 En évolution professionnelle, j'ai obtenu les titres de :
-   - Conceptrice Développeuse d'Applications, BAC+4 - DORANCO École Supérieure des Technologies Créatives,
-   - Développeuse Web et Web mobile, BAC+2 - ENI École Informatique.
-
-⚡ Maintenant, je suis Développeuse POO FullStack en Java-Spring Boot, JavaScript-ReactJS/AngularJS, NodeJS, Kotlin, C# et PHP.
+🌱 En évolution professionnelle, j'ai obtenu les titres :
+   - Expert en développement logiciel, Bac+5 - Openclassrooms
+   - Conceptrice Développeuse d'Applications, BAC+4 - DORANCO École Supérieure des Technologies Créatives
+   - Développeuse Web et Web mobile, BAC+2 - ENI École Informatique
 
 
 ## 📫 Vous pouvez me contacter
