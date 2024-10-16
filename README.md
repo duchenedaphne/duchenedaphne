@@ -1,4 +1,4 @@
-# 💻 Experte en développement logiciel
+# 💻 Développeuse fullstack
 ---
 
 ### 🛠 &nbsp;Langages et outils :
