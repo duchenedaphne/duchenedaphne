@@ -19,7 +19,7 @@
 📅 Puis, je me suis auto-formée au HTML, au CSS, au JavaScript, à GitHub, de même qu’à Linux.
 
 🌱 En évolution professionnelle, j'ai obtenu les titres :
-   - Expert en développement logiciel, Bac+5 - Openclassrooms
+   - Experte en développement logiciel, Bac+5 - Openclassrooms
    - Conceptrice Développeuse d'Applications, BAC+4 - DORANCO École Supérieure des Technologies Créatives
    - Développeuse Web et Web mobile, BAC+2 - ENI École Informatique
 
