@@ -24,16 +24,7 @@
 
 ---
 
-### 🔭 **My focus is on**
-- Writing clear, developer-focused technical documentation
-- API documentation & authentication flows
-- Docs-as-code workflows
-- Improving developer experience (DX)
-
-## 🧩 **What you’ll find here**
-- Documentation samples (API, guides, case studies)
-- Personal technical projects used as documentation supports
-- Experiments around web, PWA, and interactive applications
+🔭 **My focus is on writing clear documentation.** 
 
 ## 🌍 **Languages**
 - English (fluent)
