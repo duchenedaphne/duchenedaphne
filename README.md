@@ -1,14 +1,28 @@
 # 💻 Technical Writer | Software Engineering Background
 
-🛠 **Tools & Technologies**
-- Markdown
-- Git
-- GitHub
-- Swagger
-- REST APIs
-- Mermaid
-- Draw.io
-- Docs-as-code
+### 🛠 Tools & Technologies
+
+---
+
+<p align="center">
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" height="60"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" height="60"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" height="60"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" height="60"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" height="55"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows" alt="windows" height="55"/>   
+
+</p>
+
+<p align="center">
+   Markdown · Git · GitHub · REST APIs · Swagger · Mermaid · Draw.io · Docs-as-code · Java · JavaScript  
+</p>
+
+---
 
 🔭 **My focus is on**
 - Writing clear, developer-focused technical documentation
