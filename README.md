@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-   Markdown · MkDocs · Git · GitHub · REST APIs · Swagger · Mermaid · Draw.io · Docs-as-code · Java · JavaScript  
+   Markdown · MkDocs · Git · GitHub · REST APIs · Swagger · Mermaid · Draw.io · Docs-as-code
 </p>
 
 ---
