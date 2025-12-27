@@ -14,17 +14,17 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" height="60"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" height="55"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows" alt="windows" height="55"/>   
 
 </p>
 
 <p align="center">
-   Markdown · Git · GitHub · REST APIs · Swagger · Mermaid · Draw.io · Docs-as-code · Java · JavaScript  
+   Markdown · MkDocs · Git · GitHub · REST APIs · Swagger · Mermaid · Draw.io · Docs-as-code · Java · JavaScript  
 </p>
 
 ---
 
-🔭 **My focus is on writing clear documentation.** 
+### 🔭 My focus is on writing clear documentation.
+I create developer-focused documentation for APIs, tools, and technical products.
 
 ## 🌍 **Languages**
 - English (fluent)
