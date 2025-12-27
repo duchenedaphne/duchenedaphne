@@ -1,4 +1,4 @@
-# 💻 Technical Writer with Software Engineering Background
+# 💻 Technical Writer | Software Engineering Background
 
 ### 🛠 Tools & Technologies
 
