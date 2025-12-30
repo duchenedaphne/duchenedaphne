@@ -6,11 +6,12 @@
 
 <p align="center">
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" height="60"/> 
+<img src="https://github.com/duchenedaphne/duchenedaphne.github.io/blob/main/images/markdown-original.svg" title="Markdown" alt="Markdown" height="50"/> 
+<img src="https://github.com/duchenedaphne/duchenedaphne.github.io/blob/main/images/git-original.svg" title="Git" alt="Git" height="60"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" height="60"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" height="60"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="50" height="50"/> 
+<img src="https://github.com/duchenedaphne/duchenedaphne.github.io/blob/main/images/react-original.svg" title="React" alt="React" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" height="60"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" height="55"/> 
@@ -18,7 +19,7 @@
 </p>
 
 <p align="center">
-   Markdown · MkDocs · Git · GitHub · REST APIs · Swagger · Mermaid · Draw.io · Docs-as-code
+   Markdown · Docusaurus · Git · GitHub · REST APIs · Swagger · Mermaid · Draw.io · Docs-as-code
 </p>
 
 ---
