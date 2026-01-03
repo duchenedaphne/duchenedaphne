@@ -1,4 +1,4 @@
-# 💻 Technical Writer | Software Engineering Background
+# 💻 Technical Writer in Software Engineering
 
 ### 🛠 Tools & Technologies
 
@@ -24,7 +24,7 @@
 
 ---
 
-### 🔭 My focus is on writing clear documentation.
+### 🔭 My focus is on writing clear documentation
 I create developer-focused documentation for APIs, tools, and technical products.
 
 ## 🌍 **Languages**
